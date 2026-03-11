@@ -1,5 +1,5 @@
 /* styles.css */
- .pinyon-script-regular {
+ .pinyon-script-regular, h1 {
   font-family: "Pinyon Script", cursive;
   font-weight: 400;
   font-style: normal;
